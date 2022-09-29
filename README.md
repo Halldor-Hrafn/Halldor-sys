@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Halldor-sys
-- 👀 I’m interested in creating backend websites, but if I need to do frontend I can do that aswell
-- 🌱 I’m currently learning expressjs framework
-- 💞️ I’m looking to collaborate on creating websites with real functionality
-- 📫 How to reach me 
-
 # Profesional dumbass
 
 ---
