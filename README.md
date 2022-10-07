@@ -24,7 +24,7 @@
 - What are my cons?
   - I am an introvert
   - If you are programming something I have no/barely any interest in I will probably sleep while you are talking about it
-  - It is very hard for me to learn new things (unless if it's programming related)
+  - I have diagnosed adhd and autism and can only really pull myself together after getting my medication
 
 - Where can you find me?
   - Discord: 🎀 𝓜𝓻. 𝓹𝓸𝓽𝓽𝓼 🎀#3375
